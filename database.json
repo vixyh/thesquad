@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Vitality",
+        "points": 0,
+        "rank": 0,
+        "players": ["Zywoo", "ApEX", "FlameZ", "mezii", "ropz"],
+        "CEO": "Neo",
+        "logo" : "images/team-vitality-logo.png"
+    },
+    {
+        "name": "Karmine Corp",
+        "points": 0,
+        "rank": 0,
+        "players": ["Caliste", "Canna", "Vladi", "Yike", "Targamas"],
+        "CEO": ["Kameto", "Prime"],
+        "logo" : "images/kc-logo.jpeg"
+    },
+    {
+        "name": "G2 Esport",
+        "points": 0,
+        "rank": 0,
+        "players": ["m0nesy", "sNax", "huNter", "malbs", "NiKo"],
+        "CEO": "Alban Dechelotte",
+        "logo" : "images/g2-logo.jpg"
+    },
+    {
+        "name": "Team Liquid",
+        "points": 0,
+        "rank": 0,
+        "players": ["NertZ", "ultimate", "Twistzz", "NAF", "jks"],
+        "CEO": ["Steve Arhancet", "Victor Goossens"],
+        "logo" : "images/liquid-logo.jpg"
+    },
+    {
+        "name": "FaZe Clan",
+        "points": 0,
+        "rank": 0,
+        "players": ["karrigan", "FROZEN", "rain", "broky", "EliGE"],
+        "CEO": ["Banks", "Temperrr", "Apex"],
+        "logo" : "images/faze-clan-logo.png"
+    }
+]
