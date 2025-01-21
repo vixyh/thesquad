@@ -1,5 +1,14 @@
 
-const teams = []
+const teams = [
+    {
+        name: "Sample",
+        points: 0,
+        rank: 0,
+        players: ["P1", "P2", "P3", "P4", "P5"],
+        CEO: "CEO",
+        logo : "images/default-logo"
+    }
+]
 
 // création de mon fetch API
 async function fetchTeams() { 
@@ -27,9 +36,7 @@ function updateRanks() {
 function storeData() { // fonction qui permet d'enregistrer chaque fois que le clic sur une équipe donne un like supp 
     teams.forEach((team) => {
         localStorage.setItem(`${team.name} points`, `${team.points}`)
-    }) 
-    if (points) {
-    } 
+    })
 }
 
 function loadData() { //permet de retrouver dans le stockage local le nb de likes de chaques .forEach équipe
