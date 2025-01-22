@@ -13,7 +13,7 @@ const teams = [
 // création de mon fetch API
 async function fetchTeams() { 
     try {
-        const response = await fetch('database.json')
+        const response = await fetch('https://jsonkeeper.com/b/4AG6')
         const data = await response.json()
         teams.length = 0
         teams.push(...data)
