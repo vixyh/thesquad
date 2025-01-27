@@ -3,40 +3,429 @@
         "name": "Vitality",
         "points": 0,
         "rank": 0,
-        "players": ["Zywoo", "ApEX", "FlameZ", "mezii", "ropz"],
+        "players": [
+            {
+                "name": "Zywoo",
+                "image": "images/zywoo.jpg",
+                "game": "Counter-Strike",
+                "birth": "09/11/2000"
+            },
+            {
+                "name": "ApEX",
+                "image": "images/apex.jpg",
+                "game": "Counter-Strike",
+                "birth": "22/02/1993"
+            },
+            {
+                "name": "FlameZ",
+                "image": "images/flamez.jpg",
+                "game": "Counter-Strike",
+                "birth": "22/06/2003"
+            },
+            {
+                "name": "mezii",
+                "image": "images/mezii.jpg",
+                "game": "Counter-Strike",
+                "birth": "15/10/1998"
+            },
+            {
+                "name": "ropz",
+                "image": "images/ropz.jpg",
+                "game": "Counter-Strike",
+                "birth": "22/12/1999"
+            }
+        ],
         "CEO": "Neo",
-        "logo" : "images/team-vitality-logo.png"
+        "logo": "images/team-vitality-logo.png"
     },
     {
         "name": "Karmine Corp",
         "points": 0,
         "rank": 0,
-        "players": ["Caliste", "Canna", "Vladi", "Yike", "Targamas"],
+        "players": [
+            {
+                "name": "Caliste",
+                "image": "images/caliste.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Canna",
+                "image": "images/canna.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Vladi",
+                "image": "images/vladi.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Yike",
+                "image": "images/yike.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Targamas",
+                "image": "images/targamas.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            }
+        ],
         "CEO": ["Kameto", "Prime"],
-        "logo" : "images/kc-logo.jpeg"
+        "logo": "images/kc-logo.jpeg"
     },
     {
         "name": "G2 Esport",
         "points": 0,
         "rank": 0,
-        "players": ["m0nesy", "sNax", "huNter", "malbs", "NiKo"],
+        "players": [
+            {
+                "name": "m0nesy",
+                "image": "images/m0nesy.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "sNax",
+                "image": "images/snax.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "huNter",
+                "image": "images/hunter.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "malbs",
+                "image": "images/malbs.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "HeavyGod",
+                "image": "images/heavygod.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            }
+        ],
         "CEO": "Alban Dechelotte",
-        "logo" : "images/g2-logo.jpg"
+        "logo": "images/g2-logo.jpg"
     },
     {
         "name": "Team Liquid",
         "points": 0,
         "rank": 0,
-        "players": ["NertZ", "ultimate", "Twistzz", "NAF", "jks"],
+        "players": [
+            {
+                "name": "NertZ",
+                "image": "images/nertz.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "ultimate",
+                "image": "images/ultimate.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "Twistzz",
+                "image": "images/twistzz.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "NAF",
+                "image": "images/naf.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "jks",
+                "image": "images/jks.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            }
+        ],
         "CEO": ["Steve Arhancet", "Victor Goossens"],
-        "logo" : "images/liquid-logo.jpg"
+        "logo": "images/liquid-logo.jpg"
     },
     {
         "name": "FaZe Clan",
         "points": 0,
         "rank": 0,
-        "players": ["karrigan", "FROZEN", "rain", "broky", "EliGE"],
+        "players": [
+            {
+                "name": "karrigan",
+                "image": "images/karrigan.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "FROZEN",
+                "image": "images/frozen.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "rain",
+                "image": "images/rain.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "broky",
+                "image": "images/broky.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "EliGE",
+                "image": "images/elige.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            }
+        ],
         "CEO": ["Banks", "Temperrr", "Apex"],
-        "logo" : "images/faze-clan-logo.png"
+        "logo": "images/faze-clan-logo.png"
+    },
+    {
+        "name": "Fnatic",
+        "points": 0,
+        "rank": 0,
+        "players": [
+            {
+                "name": "Oscarinin",
+                "image": "images/oscarinin.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "razork",
+                "image": "images/razork.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Humanoid",
+                "image": "images/humanoid.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Upset",
+                "image": "images/upset.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Mikyx",
+                "image": "images/mikyx.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            }
+        ],
+        "CEO": "Sam Mathews",
+        "logo": "images/fnatic-logo.png"
+    },
+    {
+        "name": "KOI",
+        "points": 0,
+        "rank": 0,
+        "players": [
+            {
+                "name": "Myrwn",
+                "image": "images/myrwn.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Elyoya",
+                "image": "images/elyoya.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Jojopyun",
+                "image": "images/jojopyun.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Supa",
+                "image": "images/supa.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Alvaro",
+                "image": "images/alvaro.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            }
+        ],
+        "CEO": "Ibai",
+        "logo": "images/koi-logo.png"
+    },
+    {
+        "name": "BDS",
+        "points": 0,
+        "rank": 0,
+        "players": [
+            {
+                "name": "Irrelevant",
+                "image": "images/irrelevant.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "113",
+                "image": "images/113.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Nuc",
+                "image": "images/nuc.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Ice",
+                "image": "images/ice.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            },
+            {
+                "name": "Parus",
+                "image": "images/parus.jpg",
+                "game": "League of Legends",
+                "birth": "N/A"
+            }
+        ],
+        "CEO": "Patrice Bailo de Spoelberch",
+        "logo": "images/bds-logo.png"
+    },
+    {
+        "name": "GIANTX",
+        "points": 0,
+        "rank": 0,
+        "players": [
+            {
+                "name": "Cloud",
+                "image": "images/cloud.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "purp0",
+                "image": "images/purp0.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "runneR",
+                "image": "images/runner.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "tomaszy",
+                "image": "images/tomaszy.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "westside",
+                "image": "images/westside.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            }
+        ],
+        "CEO": "José Ramón Díaz",
+        "logo": "images/giantx-logo.png"
+    },
+    {
+        "name": "Natus Vincere",
+        "points": 0,
+        "rank": 0,
+        "players": [
+            {
+                "name": "w0nderful",
+                "image": "images/w0nderful.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "iM",
+                "image": "images/im.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "Aleksib",
+                "image": "images/aleksib.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "jL",
+                "image": "images/jl.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            },
+            {
+                "name": "b1t",
+                "image": "images/b1t.jpg",
+                "game": "Counter-Strike",
+                "birth": "N/A"
+            }
+        ],
+        "CEO": "Yevhen Zolotarov",
+        "logo": "images/navi-logo.png"
+    },
+    {
+        "name": "Team Heretics",
+        "points": 0,
+        "rank": 0,
+        "players": [
+            {
+                "name": "Boo",
+                "image": "images/boo.jpg",
+                "game": "Valorant",
+                "birth": "N/A"
+            },
+            {
+                "name": "benjyfishy",
+                "image": "images/benjyfishy.jpg",
+                "game": "Valorant",
+                "birth": "N/A"
+            },
+            {
+                "name": "MiniBoo",
+                "image": "images/miniboo.jpg",
+                "game": "Valorant",
+                "birth": "N/A"
+            },
+            {
+                "name": "RieNs",
+                "image": "images/riens.jpg",
+                "game": "Valorant",
+                "birth": "N/A"
+            },
+            {
+                "name": "Wo0t",
+                "image": "images/wo0t.jpg",
+                "game": "Valorant",
+                "birth": "N/A"
+            }
+        ],
+        "CEO": "Antonio Catena Poderoso",
+        "logo": "images/th-logo.png"
     }
 ]
